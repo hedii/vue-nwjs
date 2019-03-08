@@ -28,7 +28,7 @@ npm run nw-serve
 
 ### Build nw app for production
 ```
-npm run nw-serve
+npm run nw-build
 ```
 
 ### Customize configuration
