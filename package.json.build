@@ -2,7 +2,7 @@
   "name": "vue-nwjs",
   "version": "0.1.0",
   "private": true,
-  "main": "http://localhost:8080",
+  "main": "index.html",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

@@ -5,24 +5,30 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads web app for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies web app for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
 ```
 
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Compiles and hot-reloads nw app for development
+```
+npm run serve
+npm run nw-serve
+```
+
+### Build nw app for production
+```
+npm run nw-serve
 ```
 
 ### Customize configuration
